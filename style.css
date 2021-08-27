@@ -1,0 +1,41 @@
+.feature-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+}
+
+.profile img {
+    width: 200px;
+}
+a{
+    text-decoration: none;
+}
+.profile {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+h2,
+h1 {
+    color: #00a2c6;
+}
+
+footer {
+    background-color: #009FC7;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.card {
+    background-color: rgba(255, 255, 0, 0.096);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 10px;
+}
